@@ -4,7 +4,7 @@
   "description": "My first project using HTML5, CSS, JS and Node.js (with express and mongoDB).",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "npm start"
   },
   "author": "Luis Felipe Diaz",
   "license": "ISC",
