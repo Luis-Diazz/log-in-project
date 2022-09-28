@@ -1,5 +1,5 @@
 {
-  "name": "log-in-proyect",
+  "name": "log-in-project",
   "version": "1.0.0",
   "description": "My first project using HTML5, CSS, JS and Node.js (with express and mongoDB).",
   "main": "app.js",
