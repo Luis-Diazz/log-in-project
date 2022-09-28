@@ -1,0 +1,9 @@
+"": {
+    "img": "",
+    "name": "",
+    "platform": "",
+    "clasification": "",
+    "gender": "",
+    "best-seller": true,
+    "price": "" 
+},
