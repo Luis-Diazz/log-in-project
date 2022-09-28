@@ -1,10 +1,9 @@
 {
-  "name": "videogames-store-web",
+  "name": "log-in-proyect",
   "version": "1.0.0",
   "description": "My first project using HTML5, CSS, JS and Node.js (with express and mongoDB).",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js",
     "start": "node app.js"
   },
   "author": "Luis Felipe Diaz",
