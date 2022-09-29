@@ -22,10 +22,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 // MONGOOSE PART
-//const DB_URI="mongodb://localhost:27017/log_in_database";
-const DB_URI="mongodb+srv://pipe3061:pipe3321@users-database.7nh1ial.mongodb.net/";
-
+const DB_URI="mongodb+srv://pipe3061:pipe3321@users-database.7nh1ial.mongodb.net/users-database";
 //const DB_URI="mongodb://localhost:27017/log_in_database"
+
 const config={
     useNewUrlParser: true,
     useUnifiedTopology: true
